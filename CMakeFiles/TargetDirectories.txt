@@ -1,0 +1,5 @@
+/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/rebuild_cache.dir
+/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/edit_cache.dir
+/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/run.dir
+/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/todo-tray.dir
+/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/todo-tray_autogen.dir

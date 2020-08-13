@@ -1,0 +1,101 @@
+{
+	"BUILD_DIR" : "/home/andres/dev/qt/projects/qt-todo-tray/todo-tray_autogen",
+	"CMAKE_BINARY_DIR" : "/home/andres/dev/qt/projects/qt-todo-tray",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/andres/dev/qt/projects/qt-todo-tray",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/andres/dev/qt/projects/qt-todo-tray",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/andres/dev/qt/projects/qt-todo-tray",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/andres/dev/qt/projects/qt-todo-tray/listwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_listwidget.cpp"
+		],
+		[
+			"/home/andres/dev/qt/projects/qt-todo-tray/todoitem.h",
+			"MU",
+			"EWIEGA46WW/moc_todoitem.cpp"
+		],
+		[
+			"/home/andres/dev/qt/projects/qt-todo-tray/todoitemwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_todoitemwidget.cpp"
+		],
+		[
+			"/home/andres/dev/qt/projects/qt-todo-tray/todolist.h",
+			"MU",
+			"EWIEGA46WW/moc_todolist.cpp"
+		],
+		[
+			"/home/andres/dev/qt/projects/qt-todo-tray/trayapp.h",
+			"MU",
+			"EWIEGA46WW/moc_trayapp.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/andres/dev/qt/projects/qt-todo-tray/todo-tray_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/andres/dev/qt/projects/qt-todo-tray/todo-tray_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/andres/dev/qt/projects/qt-todo-tray",
+		"/usr/include/qt",
+		"/usr/include/qt/QtWidgets",
+		"/usr/include/qt/QtGui",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/c++/10.1.0",
+		"/usr/include/c++/10.1.0/x86_64-pc-linux-gnu",
+		"/usr/include/c++/10.1.0/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/10.1.0/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/10.1.0/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/andres/dev/qt/projects/qt-todo-tray/todo-tray_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/todo-tray_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/andres/dev/qt/projects/qt-todo-tray/CMakeFiles/todo-tray_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/andres/dev/qt/projects/qt-todo-tray/listwidget.cpp", "MU" ],
+		[ "/home/andres/dev/qt/projects/qt-todo-tray/main.cpp", "MU" ],
+		[ "/home/andres/dev/qt/projects/qt-todo-tray/todoitem.cpp", "MU" ],
+		[ "/home/andres/dev/qt/projects/qt-todo-tray/todoitemwidget.cpp", "MU" ],
+		[ "/home/andres/dev/qt/projects/qt-todo-tray/todolist.cpp", "MU" ],
+		[ "/home/andres/dev/qt/projects/qt-todo-tray/trayapp.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
